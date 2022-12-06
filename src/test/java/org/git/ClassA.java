@@ -39,5 +39,24 @@ public class ClassA
 	}
 	private void tc10() {
 		System.out.println("Ten");
+    }
+	
+	
+	private void tc11() {
+		System.out.println("Eleven");
 	}
+	private void tc12() {
+		System.out.println("Twel");
+	}
+	private void tc13() {
+		System.out.println("13");
+	}
+	private void tc14() {
+		System.out.println("14");
 }
+	
+	
+}
+
+
+
