@@ -10,11 +10,22 @@ public class ClassA
 	
 	private void tc2() 
 	{
-		System.out.println("Second");
+		System.out.println("Two");
 	}
 	
 	private void tc3() 
 	{
-		System.out.println("Third");
+		System.out.println("Three");
+	}
+	
+	private void tc4() {
+		System.out.println("Four");
+	}
+	
+	private void tc5() {
+		System.out.println("Five");
+	}
+	private void tc6() {
+		System.out.println("six");
 	}
 }
